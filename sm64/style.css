@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6, p .white {
 
 /* Default Fonts */
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p, a {
   font-family: 'Mario64';
   color: white;
 }
